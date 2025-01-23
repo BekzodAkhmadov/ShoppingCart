@@ -6,8 +6,8 @@ public class UnitTest1
     [Fact]
     public void Test1()
     {
-        var actualValue = 2;
-        Assert.Equal(2, actualValue);
+        var actualValue = 3;
+        Assert.Equal(3, actualValue);
     }
     [Fact]
     public void DoTheThing()

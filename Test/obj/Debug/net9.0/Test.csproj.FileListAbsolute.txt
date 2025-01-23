@@ -96,3 +96,4 @@ C:\LearnAboutProjects\ShoppingCart\Test\obj\Debug\net9.0\refint\Test.dll
 C:\LearnAboutProjects\ShoppingCart\Test\obj\Debug\net9.0\Test.pdb
 C:\LearnAboutProjects\ShoppingCart\Test\obj\Debug\net9.0\Test.genruntimeconfig.cache
 C:\LearnAboutProjects\ShoppingCart\Test\obj\Debug\net9.0\ref\Test.dll
+c:\LearnAboutProjects\ShoppingCart\Test\obj\Debug\net9.0\Test.sourcelink.json
